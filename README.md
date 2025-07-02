@@ -68,8 +68,8 @@ I'm a DevOps enthusiast dedicated to automating workflows, optimizing infrastruc
 - 🌐 [Portfolio Website](https://www.mellowbricks.co.in)
 - 📄 [Resume](https://www.mellowbricks.co.in/Resume.pdf)
 - 📧 [Email](mailto:melbinmk04@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/melbinmk)
-- 🐦 [Twitter](https://twitter.com/mellowbricks)
+- 💼 [LinkedIn](https://www.linkedin.com/in/melbinkuriakose/)
+- 🐦 [Twitter](https://twitter.com/melllowbricks)
 
 ---
 
