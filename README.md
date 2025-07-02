@@ -1,30 +1,90 @@
-<h1 align="center">Hi 👋, I'm Melbin M Kuriakose</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+# Hi 👋, I'm Melbin M Kuriakose
+### A Passionate DevOps Engineer from India
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mellowbricks&label=Profile%20views&color=0e75b6&style=flat" alt="mellowbricks" /> </p>
+I'm a DevOps enthusiast dedicated to automating workflows, optimizing infrastructure, and building scalable systems. With expertise in cloud computing, containerization, and CI/CD pipelines, I’m always exploring new technologies to enhance my craft.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mellowbricks" alt="mellowbricks" /></a> </p>
+---
 
-- 🌱 I’m currently learning **DevOps, Cloud Computing, Networking,**
+## 🌐 About Me
+- **Background**: DevOps Engineer with a focus on cloud-native solutions and automation.
+- **Currently Learning**: Advanced Kubernetes, Terraform for multi-cloud, and networking fundamentals.
+- **Ask Me About**: Linux, AWS, Shell Scripting, or anything DevOps-related!
+- **Fun Fact**: I’m a coffee enthusiast who believes good code and good coffee go hand in hand.
 
-- 👨‍💻 All of my projects are available at [www.mellowbricks.co.in](https://www.mellowbricks.co.in)
+---
 
-- 💬 Ask me about **Linux, AWS, Shell Scripts**
+## 🌱 Tech Stack
 
-- 📫 How to reach me **melbinmk04@gmail.com**
+### Programming Languages
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> **Python**: ████████░░ (8/10)
+- <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> **Bash**: ███████░░░ (7/10)
 
-- 📄 Know about my experiences [www.mellowbricks.co.in/Resume.pdf](www.mellowbricks.co.in/Resume.pdf)
+### Cloud Platforms
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> **AWS**: █████████░ (9/10)
+- <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> **Google Cloud**: ██████░░░░ (6/10)
 
-<h3 align="left">Connect with me:</h3>
+### DevOps Tools
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> **Docker**: ████████░░ (8/10)
+- <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> **Kubernetes**: ███████░░░ (7/10)
+- <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> **Jenkins**: ███████░░░ (7/10)
+- <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> **Ansible**: ██████░░░░ (6/10)
+- <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> **Terraform**: █████░░░░░ (5/10)
+
+### Version Control
+- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> **Git**: █████████░ (9/10)
+
+### Operating Systems
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> **Linux**: ██████████ (10/10)
+
+### Web Servers
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> **Nginx**: ███████░░░ (7/10)
+
+### Databases
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> **MySQL**: ██████░░░░ (6/10)
+
+*Note: Please update the proficiency ratings and scale bars above with your actual skill levels on a scale of 1-10.*
+
+---
+
+## 🚀 Key Projects
+- **[Automated CI/CD Pipeline](https://github.com/mellowbricks/cicd-pipeline)**  
+  Built a robust CI/CD pipeline using Jenkins, Docker, and Kubernetes for a microservices-based application.
+- **[AWS Infrastructure with Terraform](https://github.com/mellowbricks/terraform-iac)**  
+  Designed reusable Terraform modules to provision AWS resources like VPC, EC2, and RDS.
+- **[Monitoring Solution](https://github.com/mellowbricks/monitoring-dashboard)**  
+  Created a monitoring dashboard with Prometheus and Grafana for real-time system insights.
+
+*Explore more on my [portfolio](https://www.mellowbricks.co.in)!*
+
+---
+
+## 📊 GitHub Stats
 <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mellowbricks&theme=dark" alt="mellowbricks" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mellowbricks&show_icons=true&locale=en&layout=compact&theme=dark" alt="mellowbricks" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mellowbricks&show_icons=true&locale=en&layout=compact" alt="mellowbricks" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mellowbricks&show_icons=true&locale=en&theme=dark" alt="mellowbricks" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mellowbricks&show_icons=true&locale=en" alt="mellowbricks" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mellowbricks&theme=dark" alt="mellowbricks" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mellowbricks&" alt="mellowbricks" /></p>
+---
 
+## 📫 Connect with Me
+- 🌐 [Portfolio Website](https://www.mellowbricks.co.in)
+- 📄 [Resume](https://www.mellowbricks.co.in/Resume.pdf)
+- 📧 [Email](mailto:melbinmk04@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/melbinmk)
+- 🐦 [Twitter](https://twitter.com/mellowbricks)
+
+---
+
+### ✍️ Random Dev Quote
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+*Proudly created with love and coffee.*
