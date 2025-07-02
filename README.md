@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps, Cloud Computing, Networking,**
 
-- 👨‍💻 All of my projects are available at [www.mellowbricks.co.in](www.mellowbricks.co.in)
+- 👨‍💻 All of my projects are available at [www.mellowbricks.co.in](https://www.mellowbricks.co.in)
 
 - 💬 Ask me about **Linux, AWS, Shell Scripts**
 
