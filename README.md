@@ -41,26 +41,6 @@ I'm a DevOps enthusiast dedicated to automating workflows, optimizing infrastruc
 
 ---
 
-## 🚀 Key Projects
-*Explore more on my [portfolio](https://www.mellowbricks.co.in)!*
-
----
-
-## 📊 GitHub Stats
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mellowbricks&theme=dark" alt="mellowbricks" /></a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mellowbricks&show_icons=true&locale=en&layout=compact&theme=dark" alt="mellowbricks" />
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mellowbricks&show_icons=true&locale=en&theme=dark" alt="mellowbricks" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mellowbricks&theme=dark" alt="mellowbricks" /></p>
-
----
-
 ## 📫 Connect with Me
 - 🌐 [Portfolio Website](https://www.mellowbricks.co.in)
 - 📄 [Resume](https://www.mellowbricks.co.in/Resume.pdf)
@@ -74,5 +54,3 @@ I'm a DevOps enthusiast dedicated to automating workflows, optimizing infrastruc
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-*Proudly created with love and coffee.*
