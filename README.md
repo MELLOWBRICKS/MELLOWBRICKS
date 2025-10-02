@@ -52,5 +52,3 @@ I'm a DevOps enthusiast dedicated to automating workflows, optimizing infrastruc
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
